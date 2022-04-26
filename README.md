@@ -1,9 +1,10 @@
-## Olá, eu sou o Augusto, sinta-se a vontade e olhe os projetos que fiz, qualquer coisa é só chamar beleza 👍👋
+## Olá, eu sou o Augusto, sinta-se a vontade e olhe os projetos que fiz, qualquer coisa é só chamar beleza <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+
 
 - 🔭 Full stack em formação ...
 - 🌱 Aprendendo C#, Java, HTML, CSS, Bootstrap, SQL,  React ...
 - 💬 Gateiro 😺, e amante da boa música 🎶 ...
-- 
+ 
 
   <div align="center">
   <a href="https://github.com/augustowhitaker">
