@@ -1,4 +1,4 @@
-## Olá, eu sou o Augusto, sinta-se a vontade e olhe os projetos que fiz, qualquer coisa é só chamar beleza <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+## Olá, eu sou o Augusto, sinta-se a vontade e olhe os projetos que fiz, qualquer coisa é só chamar beleza 
 
 
 - 🔭 Full stack em formação ...
