@@ -3,6 +3,7 @@
 
 - 🔭 Full stack em formação ...
 - 🎓 Fullstack Developer - RecodePro 2021 ...
+- 🎒 Estudante de Ciência de Dados na Universidade Federal do Mato Grosso do Sul ...
 - 🎒 Estudante de Ciência da Computação na Faculdade Descomplica ...
 - 🌱 Aprendendo C#, Java, HTML, CSS, Bootstrap, SQL,  React ...
 - 💬 Gateiro 😺, e amante da boa música 🎶 ...
@@ -21,7 +22,7 @@
     <img align="center" alt="augustowhitaker-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="augustowhitaker-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="augustowhitaker-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">    
-  <img align="center" alt="augustowhitaker-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <!-- <img align="center" alt="augustowhitaker-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
     <img align="center" alt="augustowhitaker-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
     <img align="center" alt="augustowhitaker-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="augustowhitaker-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -29,7 +30,7 @@
      <img align="center" alt="augustowhitaker-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="augustowhitaker-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     
- 
+ -->
 </div>
   
   ##
