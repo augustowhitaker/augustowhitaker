@@ -50,5 +50,5 @@
 ## 🐍 Contribuições no GitHub
 
 <div align="center">
-  <img src="https://github.com/augustowhitaker/augustowhitaker/blob/output/github-contribution-grid-snake.svg" alt="GitHub contributions"/>
+  <img src="https://github.com/augustowhitaker/augustowhitaker/blob/output/dist/github-contribution-grid-snake.svg" alt="GitHub contributions"/>
 </div>
