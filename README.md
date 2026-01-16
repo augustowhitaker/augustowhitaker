@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px"> Bem-vindo ao meu perfil!  
 
-Sinta-se à vontade para explorar meus projetos, repositórios e contato.  
-
 ---
 
 ## 🌟 Sobre mim
@@ -14,22 +12,6 @@ Sinta-se à vontade para explorar meus projetos, repositórios e contato.
 - 🎒 Estudante de Ciência da Computação - Faculdade Descomplica  
 - 🌱 Aprendendo: **C#, Java, HTML, CSS, Bootstrap, SQL, React**  
 - 💬 Gateiro 😺 e amante da boa música 🎶  
-
----
-
-## 📊 Estatísticas alternativas
-
-> Como o GitHub Stats está pausado, aqui vai uma alternativa simples:  
-
-- Repositórios públicos: **`<superserá preenchido pelo GitHub>`**  
-- Commits recentes: use o seu gráfico de contribuições do GitHub  
-- Linguagens mais usadas: confira nos repositórios  
-
-> O gráfico abaixo mostra suas contribuições recentes:
-
-<div align="center">
-  <img src="https://github.com/augustowhitaker/augustowhitaker/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
 
 ---
 
@@ -65,12 +47,8 @@ Sinta-se à vontade para explorar meus projetos, repositórios e contato.
 
 ---
 
-## 🎯 Resumo
+## 🐍 Contribuições no GitHub
 
-- 💡 Sempre aprendendo e melhorando minhas habilidades  
-- 🔗 Confira meus projetos e colabore comigo  
-- 🌱 Em busca de oportunidades para aplicar conhecimento em projetos reais  
-
----
-
-> “O sucesso vem da prática constante, curiosidade e paixão pelo que você faz.”  
+<div align="center">
+  <img src="https://github.com/augustowhitaker/augustowhitaker/blob/output/github-contribution-grid-snake.svg" alt="GitHub contributions"/>
+</div>
